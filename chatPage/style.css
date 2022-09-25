@@ -24,6 +24,7 @@ body {
   height: 10vh;
   display: inline-flex;
   align-items: flex-end;
+  background-attachment: fixed;
 }
 
 .bar {
